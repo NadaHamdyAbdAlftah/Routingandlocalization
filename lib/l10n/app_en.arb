@@ -1,0 +1,10 @@
+{
+  "helloMessage": "Hello {userName}",
+  "@helloMessage": {
+    "placeholders": {
+      "userName": {
+
+    }
+  }
+}
+}

@@ -1,0 +1,10 @@
+{
+  "helloMessage": "مرحبا {userName}",
+  "@helloMessage": {
+    "placeholders": {
+      "userName": {
+
+      }
+    }
+  }
+}
